@@ -105,8 +105,6 @@ namespace CollectionsMasterConsoleUI
             NumberChecker(numbersList, searchNumber);
             
             
-            Console.WriteLine("What number will you search for in the number list?");
-            
             Console.WriteLine("-------------------");
 
             Console.WriteLine("All Numbers:");
